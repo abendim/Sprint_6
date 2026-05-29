@@ -1,0 +1,1 @@
+MAIN_PAGE = 'https://qa-scooter.education-services.ru/'
